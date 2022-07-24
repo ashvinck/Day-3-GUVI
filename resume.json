@@ -1,0 +1,101 @@
+{
+  "biodata": {
+    "name": "ASHVIN C K",
+    "email": "ashvinck10@gmail.com",
+    "phone": "+91 9550024640",
+    "degree": "BTech in Mechanical Engineering",
+    "summary": "I am a highly driven B.Tech Mechanical Engineering graduate with a vision to become a Software Engineer. I am seeking a role to develop and improve my technical skills and to work in an environment which encourages me to succeed and grow professionally where I can utilize my skills and knowledge appropriately.",
+    "location": {
+      "address": "Chambadan Kandiyil 256 , Valliyayi, Kannur , Kerala.",
+      "pinCode": "670691",
+      "city": "Kannur",
+      "country": "India",
+      "state": "Kerala"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ashvin-c-k-7353081b8/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Government Engineering College Wayanad",
+      "course": "B.Tech in Mechanical Engineering",
+      "studyType": "Regular",
+      "startDate": "2017-08-08",
+      "endDate": "2021-09-15",
+      "gpa": "8.24"
+
+    },
+    {
+      "institution": "Sri Chaitanya Jr. College, Vijayawada.",
+      "course": "Higher Secondary Education",
+      "studyType": "Regular",
+      "startDate": "2014-06-01",
+      "endDate": "2016-03-30",
+      "percentage": "90.9"
+    },
+    {
+      "institution": "Amrita Vidyalayam",
+      "course": "High School Education",
+      "studyType": "Regular",
+      "gpa": "9.6"
+
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "National Service Scheme",
+      "position": "Assistant Volunteer Secretary",
+      "startDate": "2018-06-01",
+      "endDate": "2020-06-01",
+      "summary": "Managed a team of 50 volunteers and initiated various programs with the help of government entities and NGOs  in the district",
+      "highlights": [
+        "Conducted a Punarjani Camp at the Sultan Bathery Hospital."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "3",
+      "keywords": [
+        "JavaScript","C++","python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent reading, writing and speaking."
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Mothertongue"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Excellent reading, writing and speaking."
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Excellent reading,writing and speaking."
+    },
+    {
+      "language": "Sanskrit",
+      "fluency": "Excellent reading,writing and speaking."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Cricket", "Volleyball", "Basketball"]
+    },
+    {
+      "name": "Technology",
+      "keywords": ["Automobiles", "Gadgets"]
+    }
+  ]
+}
